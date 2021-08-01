@@ -3,7 +3,9 @@
 ------------------------------------------------------------------------
 
 ### Contents
-###### There are two types of contents. First is pre-term, and second is final-term project.
+###### There are two types of contents. 
+1. pre-term
+2. final-term project.
 ###### The two contents are correlated so much. Both are about "Option Delta hedging".
 
 ------------------------------------------------------------------------
